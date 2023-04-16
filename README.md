@@ -6,6 +6,12 @@ Shenyue Jia
 
 - [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
 
+## A Tableau Dashboard showing data
+
+![png](https://github.com/jiashenyue/chicago-crime-data/blob/main/PNG/dashboard.png)
+
+[Link to dashboard](https://public.tableau.com/views/chicagocrimedataanalysis/MainDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Tasks and notebooks
 
 - Separate raw data to CSV files by year (2001-2023) and do basic data cleaning ([notebook](https://github.com/jiashenyue/chicago-crime-data/blob/main/part-1.1-preparing-crime-data.ipynb))
